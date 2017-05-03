@@ -1,0 +1,6 @@
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\David Mimnagh\Desktop\Projects\Personal\CardGame\CardGame\obj\Debug\CardGame.pdb
